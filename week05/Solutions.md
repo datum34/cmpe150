@@ -256,7 +256,7 @@ int main() {
         curr = next;
     }
     
-    if(n == 0){
+    if(n == 1){
         printf("%d", prev);
     }else{
         printf("%d", curr);
